@@ -1,0 +1,151 @@
+.links {
+    cursor: pointer;
+    color: #000000;
+    text-decoration: none;
+    
+}
+
+
+body {
+    background-color: #ccd5f1;
+    padding: 10px;
+  
+  }
+  
+  .clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+    
+  }
+
+img {
+       margin-top: 4px;
+       margin-left: 4px;
+       width: 115px;
+       border-radius: 4px;
+           
+}
+/*--- Floats ---*/
+
+
+.part1 {
+   /*border: solid 3px springgreen;*/
+    width: 20%;
+    float: left;
+}
+
+.part2 {
+    float: right;
+    width: 72%;
+    
+    padding-right: .5em;
+    position: relative;
+}
+
+.page_top {
+    width: 490px;
+        
+}
+    
+
+.contact_form,
+.title_page2,
+.clearfix {
+    
+    border-radius: 5px;
+    background-color: #252733;
+    color: silver;
+    
+}
+
+.contact_form {
+    border: solid 1px  #ccd5f1;
+        
+    margin: 0 auto;
+    width: 400px;
+
+    padding: 20px;
+}
+
+.title_page2 {
+    margin: 0 auto;
+    text-align: center;
+    width: 400px;
+    padding: 20px;
+    border: solid 1px  #ccd5f1;
+}
+
+.footer {
+    text-align: center;
+    font-size: 24px;  
+    padding: 20px;
+    font-weight: 900;
+   
+}
+
+.part2_myname {
+   
+ 
+    font-size: 40px;
+    margin-top: 5px;
+    margin-bottom: 0;
+    
+
+
+    
+    /*border: solid 3px springgreen;*/
+}
+
+.part2_text {
+    border-top: 2px solid silver;
+    font-size: 17px;
+    padding-top: 4px;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 99%;
+       
+}
+
+.page1_contact {
+    cursor: pointer;
+    color: #252733;
+    text-decoration: none;
+    text-align: center;
+    font-size: 14px;
+}
+
+section ~ h1 {
+    border-top: 2px solid #bebebe;
+
+
+}
+
+div h1 {
+    border-top: 2px solid #bebebe;
+
+
+}
+
+
+.icon_1 {
+    
+   margin: 0;
+    max-width:50px;
+    max-height:50px;s
+
+    
+}
+
+.cert_p {
+    margin-top: ;
+    margin-bottom: 0;
+}
+
+.icon_wrap {
+    width: 100px;
+    margin-left: 0px;
+    -webkit-margin-top-collapse: collapse;
+
+    border: solid 3px springgreen;
+}
