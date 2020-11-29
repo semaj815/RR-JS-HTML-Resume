@@ -115,6 +115,7 @@ img {
     font-size: 14px;
 }
 
+/*
 section ~ h1 {
     border-top: 2px solid #bebebe;
 
@@ -126,7 +127,7 @@ div h1 {
 
 
 }
-
+*/
 
 .icon_1 {
     
@@ -147,5 +148,5 @@ div h1 {
     margin-left: 0px;
     -webkit-margin-top-collapse: collapse;
 
-    border: solid 3px springgreen;
+
 }
