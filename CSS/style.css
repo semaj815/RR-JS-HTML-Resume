@@ -30,9 +30,10 @@ img {
 
 
 .part1 {
-   /*border: solid 3px springgreen;*/
+   
     width: 20%;
     float: left;
+    /*border: solid 3px springgreen;*/
 }
 
 .part2 {
